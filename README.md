@@ -20,6 +20,7 @@ This is a lightweight TCP port scanner written in Go. It allows you to quickly s
 
 ## Example
 Enter the website to scan: example.com
+
 80 open
 443 open
 
